@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aarman-hub
+- 👋 Hi, I’m @Aarman
 - 👀 I’m interested in learning new technology do new something.
 - 🌱 I’m currently learning AWS, Mern Stack and Django.
 - 💞️ I’m looking to collaborate on open source project.
