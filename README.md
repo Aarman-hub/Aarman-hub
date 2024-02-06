@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aarman
 - 👀 I’m interested in learning new technology do new something.
-- 🌱 I’m currently learning AWS, Mern Stack and Django.
+- 🌱 I’m currently learning AWS, DevOps, Docker & Kubernets, python Mern Stack and Django.
 - 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me ...
 
